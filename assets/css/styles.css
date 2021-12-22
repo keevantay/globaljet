@@ -1,0 +1,178 @@
+html {
+
+  overflow-x: hidden;
+
+}
+
+.header {
+  background-color: #E8DDB5;
+}
+
+.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:40%;
+}
+
+.mycarousel {
+  padding-right:0 !important;
+  padding-left:0 !important;
+}
+
+.whychooseus {
+  text-align: center;
+  font-family: Californian FB;
+  font-size:4vw;
+  letter-spacing: 0;
+  color: #052681;
+  opacity: 1;
+  background-color:#E8DDB5;
+  padding:5%
+}
+.ten {
+  margin-top:20%;
+  width:100%;
+
+}
+
+.globe{
+  margin-top:20%;
+  width:100%;
+}
+
+.factory {
+  margin-top:20%;
+    width:100%;
+}
+
+.security {
+  margin-top:20%;
+    width:100%;
+}
+
+.belowchooseus {
+  background-image:url(mask_group.png);
+  background-size:cover;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  position: relative;
+}
+
+.aboutus {
+  text-align: center;
+  font-family: Californian FB;
+  font-size:4vw;
+  letter-spacing: 0;
+  color: #052681;
+  opacity: 1;
+  background-color:#E8DDB5;
+  padding:5%
+}
+
+
+.belowaboutus {
+  background-image:url(../image/scrollgroup2.png);
+  background-size:cover;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  position: relative;
+  padding:5%;
+  width:100%;
+}
+
+.our-ecommerce-platforms{
+  text-align: center;
+  font-family: Californian FB;
+  font-size:4vw;
+  letter-spacing: 0;
+  color: #052681;
+  opacity: 1;
+  background-color:#E8DDB5;
+  padding:5%
+}
+
+.ecommerce {
+  display:flex;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  justify-content: center;
+  align-content: center;
+  padding: 10%;
+}
+
+.ourqualifications{
+  text-align: center;
+  font-family:Californian FB;
+  font-size:4vw;
+  letter-spacing: 0;
+  color: #052681;
+  opacity: 1;
+  background-color:#E8DDB5;
+  padding:5%
+}
+
+.certificate{
+padding:10%;
+align-item:center;
+width:100%;
+}
+
+.contactus{
+  text-align: center;
+  font-family: Californian FB;
+  font-size:4vw;
+  letter-spacing: 0;
+  opacity: 1;
+  color: #052681;
+  padding:5%
+}
+
+.keepingyousafe{
+  text-align: center;
+letter-spacing: NaNpx;
+color: #FFFFFF;
+font-family:Freestyle Script;
+font-size:4vw;
+padding:5%;
+}
+
+.bottom{
+  background-color: #E8DDB5;
+  padding:4%;
+}
+
+.keepingyousafe{
+  background-color:#052681;
+  margin-top:10%;
+}
+
+.fa {
+  padding: 10%;
+ text-align: left;
+ text-decoration: none;
+ border-radius:50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+
+.belowcontactus{
+  margin-bottom:20%;
+}
